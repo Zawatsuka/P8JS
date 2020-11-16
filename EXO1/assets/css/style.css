@@ -1,0 +1,13 @@
+html,
+body {
+    scroll-behavior: smooth;
+}
+
+.arrow {
+    float: right;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 50px;
+    width: 60px;
+    height: 120px;
+}
